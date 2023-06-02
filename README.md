@@ -10,9 +10,9 @@ localidad: Santa Clara del Mar
 edad: 26 
 localidad:Capital Federal
 
-3.nombre y apellido:
-edad:
-localidad:
+3.nombre y apellido: Liz Vilchez
+edad: 35
+localidad: Capital Federal
 
 4.nombre y apellido:
 edad:
