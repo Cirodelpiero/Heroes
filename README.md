@@ -14,9 +14,9 @@ localidad:Capital Federal
 edad: 35
 localidad: Capital Federal
 
-4.nombre y apellido:
-edad:
-localidad:
+4.nombre y apellido:Matias Recalde Pereira
+edad:24
+localidad:Bella Vista
 
 
 
